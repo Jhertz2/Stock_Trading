@@ -1,0 +1,2 @@
+# Stock_Trading
+This is a stock trading program written in Python. It reads in a .csv file of stock information, manipulates the file and makes stock trading decisions based on it. The first upload simulates the buying and selling of stocks over the course of 15 years based on a moving average. The second upload simulates the buying and selling based on how many days in a row it has gone up or down. The last upload does the same as the second upload, just using OOD principles.
